@@ -1,0 +1,15 @@
+c:\Users\Ruscuk\Desktop\deneme\bin\Debug\net6.0\deneme.exe
+c:\Users\Ruscuk\Desktop\deneme\bin\Debug\net6.0\deneme.deps.json
+c:\Users\Ruscuk\Desktop\deneme\bin\Debug\net6.0\deneme.runtimeconfig.json
+c:\Users\Ruscuk\Desktop\deneme\bin\Debug\net6.0\deneme.dll
+c:\Users\Ruscuk\Desktop\deneme\bin\Debug\net6.0\deneme.pdb
+c:\Users\Ruscuk\Desktop\deneme\obj\Debug\net6.0\deneme.csproj.AssemblyReference.cache
+c:\Users\Ruscuk\Desktop\deneme\obj\Debug\net6.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ruscuk\Desktop\deneme\obj\Debug\net6.0\deneme.AssemblyInfoInputs.cache
+c:\Users\Ruscuk\Desktop\deneme\obj\Debug\net6.0\deneme.AssemblyInfo.cs
+c:\Users\Ruscuk\Desktop\deneme\obj\Debug\net6.0\deneme.csproj.CoreCompileInputs.cache
+c:\Users\Ruscuk\Desktop\deneme\obj\Debug\net6.0\deneme.dll
+c:\Users\Ruscuk\Desktop\deneme\obj\Debug\net6.0\refint\deneme.dll
+c:\Users\Ruscuk\Desktop\deneme\obj\Debug\net6.0\deneme.pdb
+c:\Users\Ruscuk\Desktop\deneme\obj\Debug\net6.0\deneme.genruntimeconfig.cache
+c:\Users\Ruscuk\Desktop\deneme\obj\Debug\net6.0\ref\deneme.dll
